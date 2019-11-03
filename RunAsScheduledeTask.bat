@@ -1,0 +1,1 @@
+"%SystemRoot%\syswow64\WindowsPowerShell\v1.0\powershell.exe" -NoLogo -NoExit -NonInteractive -ExecutionPolicy Bypass -File "{PATH WHERE YOU WILL SAVE THIS FILES}\UPDATE_WEBSITES.ps1"
